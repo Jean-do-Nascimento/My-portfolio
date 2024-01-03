@@ -40,7 +40,10 @@ const Contact = () => {
     ) 
     
     .then(() => {
-      if (form.name || form.email || form.message==['']) {
+      if (form.message=='') {
+        setLoading(false);
+        alert('você se esqueceu da sua mensagem.');
+      }else if (form.name || form.email =='') {
         setLoading(false);
         alert('você se esqueceu de preencher um dos campos.');
       }
