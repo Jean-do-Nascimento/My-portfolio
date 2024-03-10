@@ -29,6 +29,7 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
 import carhub from "./carhub.png";
+import matrix from "./matrix.png";
 import promptopia from "./promptopia.png";
 import authreloaded from "./authreloaded.png";
 
@@ -60,6 +61,7 @@ export {
   starbucks,
   tesla,
   carhub,
+  matrix,
   promptopia,
   authreloaded,
   next
