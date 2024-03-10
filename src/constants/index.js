@@ -22,6 +22,7 @@ import {
     threejs,
     next,
     carhub,
+    matrix,
     promptopia,
     authreloaded,
   } from "../assets";
@@ -195,7 +196,7 @@ import {
       source_code_link: "https://github.com/Jean-do-Nascimento/Auth.reloaded",
       live_project_link: "https://authreloaded.netlify.app",
     },
-       {
+    {
       name: "Matrix Games",
       description:
         "Matrix Games é uma loja ficticia criada com o propósito de montar uma aplicação profissional utilizando apenas de CSS e HTML",
@@ -209,9 +210,9 @@ import {
           color: "orange-text-gradient",
         },
       ],
-      image: carhub,
-      source_code_link: "https://github.com/Jean-do-Nascimento/Car-Hub",
-      live_project_link: "https://car-hub-hq.vercel.app",
+      image: matrix,
+      source_code_link: "https://github.com/Jean-do-Nascimento/matrix-games-shop",
+      live_project_link: "https://matrix-games-shop.vercel.app",
     },
   ];
   
