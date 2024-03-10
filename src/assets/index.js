@@ -23,11 +23,6 @@ import typescript from "./tech/typescript.png";
 import next from "./tech/next.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
-
 import carhub from "./carhub.png";
 import matrix from "./matrix.png";
 import promptopia from "./promptopia.png";
