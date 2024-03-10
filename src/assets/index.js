@@ -25,6 +25,7 @@ import threejs from "./tech/threejs.svg";
 
 import carhub from "./carhub.png";
 import matrix from "./matrix.png";
+import spotify from "./spotify.png"
 import promptopia from "./promptopia.png";
 import authreloaded from "./authreloaded.png";
 
@@ -53,6 +54,7 @@ export {
   threejs,
   carhub,
   matrix,
+  spotify,
   promptopia,
   authreloaded,
   next
