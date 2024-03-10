@@ -23,6 +23,7 @@ import {
     next,
     carhub,
     matrix,
+    spotify,
     promptopia,
     authreloaded,
   } from "../assets";
@@ -199,7 +200,7 @@ import {
     {
       name: "Matrix Games",
       description:
-        "Matrix Games é uma loja ficticia criada com o propósito de montar uma aplicação profissional utilizando apenas de CSS e HTML",
+        "Matrix Games é uma loja ficticia criada com o propósito de montar uma aplicação profissional utilizando apenas de CSS e HTML.",
       tags: [
         {
           name: "CSS",
