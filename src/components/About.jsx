@@ -46,17 +46,17 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Sou um desenvolvedor de software com experiência
+        Sou desenvolvedor de software com experiência
         em aplicações web fazendo uso de Javascript e Typescript,
         e com experiência em frameworks como React,
         Node.js, Next.js e outros.
         Aprendo rápido e a maioria das minhas habilidades
-        desenvolvi sozinho sendo autodidata.
-        Por isso tenho uma forma muito eficiente
+        desenvolvi sendo autodidata.
+        Dessa forma construí hábitos eficientes
         de trabalhar e resolver problemas quando se trata
         do processo de desenvolvimento de software.
         Estou ansioso para colaborar estreitamente com
-        clientes e colegas de trabalho para criar soluções eficientes,
+        clientes e colegas de trabalho para criar ferramentas eficazes,
         escaláveis ​​e fáceis de usar que resolvem
         problemas do mundo real.
         Vamos trabalhar juntos e dar vida às suas ideias!
